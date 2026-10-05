@@ -28,6 +28,6 @@ now u should get reverse shell in ur own local host
 ---------------------------------------------------------------------------
 Note : if u are using this against real website (u have premission at)
 don't forget to use Public ip and Port Forwarding in ur Router to ur machine 
-or just use vps to get the shell
+or just use vps to get the shell,
 u can search how to receive shell correctly in internet ;)
 ---------------------------------------------------------------------------
