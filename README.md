@@ -8,7 +8,9 @@ This repo is purely for educational purposes.
 Don't do anything stupid or illegal with it. Test it only on your own local machines or in a controlled lab where you have full permission.
 I take zero responsibility for what anyone does with this code or any damage caused by it. Use it to learn, not to break things.
 --------------------------------------------------------------------------------------------------------------------------------
-(Note : u have to adjust the Ip and The port Before Using the script and don't change nothing else)
+**HOW TO USE :**
+ u have to adjust the Ip and The port Before Using the script and don't change nothing else
+ 
 After that u can try if the script working by using nc
 split the terminal By CTRL+SHIFT+D And use this command in the first tab
 
